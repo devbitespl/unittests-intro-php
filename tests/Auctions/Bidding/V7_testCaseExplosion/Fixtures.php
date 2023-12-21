@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\DevBites\Auctions\Bidding\V7_testCaseExplosion;
+namespace Tests\DevBites\Auctions\Bidding\v7_testCaseExplosion;
 
 use DevBites\Auctions\Bidding\Auction;
 use DevBites\Auctions\Bidding\Offer;
